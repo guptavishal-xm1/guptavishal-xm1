@@ -1,47 +1,79 @@
-<h2 align="left">Hi 👋! My name is Vishal Gupta and I'm a Cs Student, from Delhi</h2>
+<!-- Header Banner -->
+<h1 align="center">👋 Hi, I'm Vishal Gupta</h1>
+<h3 align="center">Java Backend Developer | Spring MVC Specialist | Full-Stack Enthusiast</h3>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Specialist-brightgreen?style=flat-square&logo=springboot">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql">
+  <img src="https://img.shields.io/badge/REST%20API-Design-blueviolet?style=flat-square&logo=rest-api">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptavishal-xm1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptavishal-xm1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
+I am a passionate **Java Backend Developer** specializing in **Spring MVC & Spring Boot**, with strong experience in building **scalable web applications** and **RESTful APIs**.  
+I love creating **secure, maintainable, and high-performance applications** that solve real-world problems.  
 
-<img align="right" height="150" src="https://media3.giphy.com/media/WTL02R1L7YCGUEunFy/giphy.gif"  />
+✔ Proficient in **Java**, **Spring MVC**, **Spring Boot**, **Hibernate**, **MySQL**  
+✔ Strong knowledge of **API Development**, **Microservices Architecture**, and **Clean Code Principles**  
+✔ Currently working on **modernizing full-stack Java applications with Tailwind CSS for UI**  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-</div>
+## 🏢 Company & Professional Work
+I focus on **building enterprise-grade applications** and **custom solutions** tailored for businesses.  
+If you’re looking for **Java-based backend systems** or **Spring Boot-driven platforms**, I can help your company deliver **robust and scalable solutions**.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-###
+---
 
-<br clear="both">
+## 📌 Featured Projects
+### 🔹 [Deepak Wadhwa Web App](https://github.com/guptavishal-xm1/deepak-wadhwa)
+A **Spring Boot + MySQL** based investment platform with:  
+✔ User Authentication (Login/Signup)  
+✔ Dynamic Deposit Page with Bank Details & UTR Upload  
+✔ Admin Dashboard & Transaction Management  
+✔ Tailwind CSS Frontend  
 
-<img src="https://raw.githubusercontent.com/guptavishal-xm1/guptavishal-xm1/output/snake.svg" alt="Snake animation" />
+### 🔹 Ludo 2v2 Android App  
+✔ Fully functional **local multiplayer Ludo game**  
+✔ Complete **game logic & animations**  
 
-###
+*(Check all projects [here](https://github.com/guptavishal-xm1?tab=repositories))*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptavishal-xm1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptavishal-xm1&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptavishal-xm1&theme=react-dark" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/guptavishal-xm1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
